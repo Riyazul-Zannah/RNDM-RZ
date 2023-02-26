@@ -19,7 +19,7 @@ pip install bs4
 
 pkg install git
 
-https://github.com/Riyazul-Zannah/RNDM-RxZ
+git clone https://github.com/Riyazul-Zannah/RNDM-RxZ
 
 cd RNDM-RxZ
 
